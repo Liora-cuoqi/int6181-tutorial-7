@@ -2,7 +2,7 @@ import math
 
 
 class ParkingFeeCalculator:
-    HOURLY_RATE = 20.0
+    HOURLY_RATE = 30.0
     DAILY_MAX = 80.0
 
     def calculate_fee(self, hours):
